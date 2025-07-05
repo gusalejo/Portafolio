@@ -186,12 +186,13 @@ div.titulocont {
   }
 .programas{
   background-image: url("img/programas.png");
-  width: 850px;
+  background-size: contain;
   margin: auto;
-  background-size:contain;
+  width: 100%;
+  height: 200px;
   background-repeat: no-repeat;
   background-position: center;
-  height: 80px;
+
 }
 .p1{
   text-align: center;
