@@ -78,12 +78,10 @@ background: linear-gradient(to bottom,
   flex: 1.121;
   background-image: url('img/fotop.png');
 
-
-
-  background-size: 75%;
+  background-size:700px;
   background-repeat: no-repeat;
   background-position: bottom;
-  border-radius: 0% 50% 0% 0%;
+
 }
 
 header.negroblanco {
